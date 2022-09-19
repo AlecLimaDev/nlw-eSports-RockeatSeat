@@ -38,8 +38,6 @@ header div {
     padding: 4px;
  /* DIV não tem proprieda de texto. */
     margin: auto;
-
-
     transition: transform .3s;
 }
 
@@ -59,17 +57,13 @@ main {
     max-width: 580px;
     width: 90%;
     margin: 32px auto;
-
     display: grid;
     gap: 24px;
-
     margin-top: 32px;
 }
 
 section {
     color: white;
-    
-
     background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
     padding-top: 4px;
     border-radius: 10px;
@@ -81,8 +75,6 @@ section div {
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
-
-    
 }
 
 section h2 {
@@ -100,7 +92,6 @@ section ul {
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
-
     margin-top: 24px;
 }
 
